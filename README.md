@@ -5,9 +5,13 @@ Reddit Auto Messager
 Messages users that have posted to a given sub-Reddit Misuse of this script will probably lead to your account being banned.
 
 Setup instructions
-Instructions are for Linux.
 
-Download Python 3.6 from the Python website here - https://www.python.org/downloads/
+1) Set your username, password, keys and message in the keys.py file. You will need to get your keys from: https://www.reddit.com/prefs/apps
+
+
+2) Download Python 3+ from the Python website here - https://www.python.org/downloads/
+
+3) Run the RedditAutoMessage.py program with python.
 
 When installing, make sure you select "add python to PATH environment" or whatever that box is. I can't remember the exact wording, but it is something along those lines. You can just spam click "next" after checking that box.
 
